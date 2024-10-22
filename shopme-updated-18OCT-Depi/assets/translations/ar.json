@@ -1,0 +1,61 @@
+{
+    "SignIn":
+    {
+    "name":"تطبيق الملابس ",
+    "signIn":"تسجيل الدخول ",
+    "email":"ادخل بريدك الالكترونى",
+    "continue":" استمرار ",
+    "Donot_you_have_an_account":" لا تملك حساب ؟",
+    "Create_one":" قم بعمل حساب جديد " 
+    },
+
+    "SignUp":
+    {
+        "Create_Account":"انشئ حساب جديد",
+        "Firstname":"الاسم الاول",
+        "Lastname":"الاسم الاخير",
+        "Email_Address":"عنوان البريد الاليكترونى",
+        "Password":"كلمة المرور",
+        "Continue":"استمرار",
+        "Do_you_have_an_account":"لديك حساب بالفعل ؟ ",
+        "Signin":"تسجيل الدخول"
+    },
+    "PasswordReset":{
+        "sentEmail":"لقد أرسلنا لك بريدًا إلكترونيًا لإعادة تعيين كلمة المرور الخاصة بك.",
+        "Return_to_Login":"العوده لصفحه تسجيل الدخول "
+    },
+    "GenderAndAge":{
+        "Tell_us_about_yourself": "حدثنا عن نفسك",
+        "Men": "رجال",
+        "Women": "نساء",
+        "How_old_are_you": "كم عمرك؟",
+        "Finish": "إنهاء"
+    },
+    "ForgotPassword": {
+        "Forgot_Password": "نسيت كلمة المرور",
+        "Enter_Email": "أدخل البريد الإلكتروني",
+        "Continue": "استمرار"
+    },
+    "EnterPassword": {
+        "Sign_in": "تسجيل الدخول",
+        "Enter_Password": "أدخل كلمة المرور",
+        "Continue": "استمرار",
+        "Forgot_password": "نسيت كلمة المرور؟",
+        "Reset": "إعادة تعيين"
+    },
+    "HomeCategories": {
+        "Categories": "الفئات",
+        "See_All": "عرض الكل"
+    },
+    "HomeHeader": {
+        "Men": "رجال",
+        "Women": "نساء"
+    },
+    "Homesearch": {
+        "search": "بحث"
+    },
+    "HomeTopSelling": {
+        "Top_Selling": "الأكثر مبيعًا"
+    }
+
+}
